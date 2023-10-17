@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @quin151
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+quin151/quin151 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+background: rgb(199,200,184);
+background: linear-gradient(90deg, rgba(199,200,184,1) 0%, rgba(103,151,150,1) 25%, rgba(34,93,112,1) 50%, rgba(118,54,43,1) 75%, rgba(197,142,65,1) 100%);
